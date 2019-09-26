@@ -1,5 +1,5 @@
 {
-  "name": "graphql-hooks-memcache",
+  "name": "graphql-hooks-memcache-lru-cache",
   "version": "1.2.2",
   "description": "In memory cache for graphql-hooks",
   "main": "lib/graphql-hooks-memcache.js",
