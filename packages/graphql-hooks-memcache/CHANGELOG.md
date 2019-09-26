@@ -3,18 +3,6 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# 1.3.0 (2019-09-26)
-
-
-### Features
-
-* add a TypeScript declaration file for graphql-hooks-memcache ([#137](https://github.com/nearform/graphql-hooks/issues/137)) ([03a1f43](https://github.com/nearform/graphql-hooks/commit/03a1f43))
-* cjs, es & umd bundles for graphql-hooks-memcache ([#109](https://github.com/nearform/graphql-hooks/issues/109)) ([9dd1004](https://github.com/nearform/graphql-hooks/commit/9dd1004))
-
-
-
-
-
 ## [1.2.2](https://github.com/nearform/graphql-hooks/compare/graphql-hooks-memcache@1.2.1...graphql-hooks-memcache@1.2.2) (2019-08-05)
 
 **Note:** Version bump only for package graphql-hooks-memcache
